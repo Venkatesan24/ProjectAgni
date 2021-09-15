@@ -41,6 +41,7 @@ public class Testsample {
 		
 		System.out.println("Method1");
 		System.out.println("Methods2");
+		System.out.println("s");
 
 	}
 	

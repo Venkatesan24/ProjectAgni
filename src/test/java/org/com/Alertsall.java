@@ -17,7 +17,8 @@ public class Alertsall {
 	@Test
 	private void tc01() {
 		System.out.println("Methodss1");
-
+System.out.println("A");
+System.out.println("B");
 	}
 
 	}

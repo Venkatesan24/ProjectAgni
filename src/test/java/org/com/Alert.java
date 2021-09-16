@@ -17,6 +17,10 @@ public class Alert {
 		System.out.println("Methodss1");
 
 	}
+	private void sysout() {
+		System.out.println("method 1");
+		
+	}
 		
 
 	}

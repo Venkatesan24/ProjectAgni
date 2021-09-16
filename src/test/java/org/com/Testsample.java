@@ -38,6 +38,11 @@ public class Testsample {
 	private void tc1(String s) {
 		WebElement txtPassword = driver.findElement(By.id("pass"));
 		txtPassword.sendKeys(s);
+		
+		System.out.println("Method1");
+		System.out.println("Methods2");
+		System.out.println("s");
+		System.out.println("v");
 
 	}
 	

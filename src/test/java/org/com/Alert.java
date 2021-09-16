@@ -22,7 +22,14 @@ System.out.println("method3");
 System.out.println("methods4");
 System.out.println("methods5");
 	}
+private void sysout() {
+	System.out.println("method 1");
 	
+}
+
+	
+		
+
 
 
 	}	
